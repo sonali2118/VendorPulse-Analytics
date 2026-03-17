@@ -21,12 +21,11 @@ VendorPulse Analytics is an end-to-end data analysis project focused on evaluati
 ---
 
 ## **📂 Project Structure**
-VendorPulse-Analytics/
-│
-├── data/ # Raw & processed datasets
-├── sql/ # SQL queries
-├── python/ # Data analysis scripts
-├── dashboard/ # Power BI files (.pbix)
+**VendorPulse-Analytics/**
+- **data/** → Raw & processed datasets  
+- **sql/** → SQL queries  
+- **python/** → Data analysis scripts  
+- **dashboard/** → Power BI files (.pbix) 
 
 
 ---
