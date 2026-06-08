@@ -9,7 +9,7 @@ VendorPulse Analytics is an end-to-end data analysis project focused on evaluati
 - Identify underperforming brands  
 - Analyze top vendors and their contribution  
 - Optimize pricing and bulk purchasing strategies  
-- Improve inventory turnover  
+- Improve inventory turnover
 
 ---
 
