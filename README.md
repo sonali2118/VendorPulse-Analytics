@@ -8,7 +8,7 @@ VendorPulse Analytics is an end-to-end data analysis project focused on evaluati
 ## **🎯 Objective**
 - Identify underperforming brands  
 - Analyze top vendors and their contribution  
-- Optimize pricing and bulk purchasing strategies  
+- Optimize pricing and bulk purchasing strategies
 - Improve inventory turnover
 
 ---
